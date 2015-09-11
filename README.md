@@ -1,12 +1,13 @@
 ## Bash Mass Directory Renamer
 
- This script does the following actions:
-    * stores all directory names to an array,
-    * splits the large phrases to words
-    * capitalizes the first letter
-    * replaces underscores with spaces
-    * renames/moves the folder
+This script does the following actions:
 
-  Execute it as `bash rename.sh`.
+* stores all directory names to an array,
+* splits the large phrases to words
+* capitalizes the first letter
+* replaces underscores with spaces
+* renames/moves the folder
 
-  Tested successfully on OSX.
+Execute it as: `bash rename.sh`.
+
+Tested successfully on OSX.
